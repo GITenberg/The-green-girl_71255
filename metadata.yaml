@@ -1,0 +1,49 @@
+_repo: The-green-girl_71255
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wessolowski, Hans Waldemar
+    aliases:
+    - Wesso
+    - Wesso, H. W.
+    - Wesso, H.W.
+    birthdate: 1893
+    deathdate: 1948
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+creator:
+  author:
+    agent_name: Williamson, Jack
+    aliases:
+    - Williamson, John Stewart
+    - Stewart, Will
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '31775'
+    url: http://www.gutenberg.org/2009/agents/31775
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
+description: ''
+gutenberg_issued: '2023-07-22'
+identifiers:
+  gutenberg: '71255'
+language: en
+pgterms:marc905: 20230422065712williamson
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bExperimenter Publications, Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The green girl
+url: http://www.gutenberg.org/ebooks/71255
