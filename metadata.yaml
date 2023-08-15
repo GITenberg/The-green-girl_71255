@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '32703'
     url: http://www.gutenberg.org/2009/agents/32703
     wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+covers:
+- cover_type: archival
+  image_path: 71255-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, Jack
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31775
     wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71255#The-green-girl
 gutenberg_issued: '2023-07-22'
 identifiers:
   gutenberg: '71255'
